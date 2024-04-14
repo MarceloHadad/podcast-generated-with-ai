@@ -19,3 +19,7 @@ Projeto para gerar um podcast utilizando ferramentas de IA por meio de prompts m
 - Lexica para gerar capa
 - Áudio gerado pelo Clipchamp
 - CapCut para tratar áudio e adicionar som de fundo
+
+## 🎙️ Episódio
+
+Você pode ouvir o podcast no link: [Spotify](https://podcasters.spotify.com/pod/show/marcelo-cury-hadad/episodes/Hello-world-e2icf7a)
