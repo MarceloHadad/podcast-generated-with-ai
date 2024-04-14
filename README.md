@@ -4,7 +4,7 @@
 
 ![cover](./assets/cover.png)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto para gerar um podcast utilizando ferramentas de IA por meio de prompts mais trabalhados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -15,7 +15,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via ChatGPT
 - Lexica para gerar capa
-- Audio gerado pela clipchamp
-- CapCut para tratar aúdio e adicionar som de fundo
+- Áudio gerado pelo Clipchamp
+- CapCut para tratar áudio e adicionar som de fundo
